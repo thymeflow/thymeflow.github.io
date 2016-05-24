@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thymeflow</title>
+    <link>https://thymeflow.com/</link>
+    <description>Recent content on Thymeflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://thymeflow.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://thymeflow.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thymeflow.com/about/</guid>
+      <description>&lt;p&gt;Thymeflow is an application to create a timeline of your life, by combining your location, calendar, mails and contact info to link places you have been to with people you have met with and events you have attended.&lt;/p&gt;
+
+&lt;p&gt;Thymeflow is committed to keeping your data private by not sharing it with anyone, not even us. Thymeflow runs entirely on your mobile phone on your own &lt;a href=&#34;https://cozy.io&#34;&gt;Cozy&lt;/a&gt; instance, which means you are entirely in control of your data.&lt;/p&gt;
+
+&lt;p&gt;Thymeflow is a research project conducted by &lt;a href=&#34;http://sinovia.com&#34;&gt;Sinovia&lt;/a&gt;, a subsidiary of &lt;a href=&#34;http://www.engie.com/&#34;&gt;ENGIE&lt;/a&gt;, in collaboration with &lt;a href=&#34;https://www.inria.fr/&#34;&gt;INRIA&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://thymeflow.com/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thymeflow.com/downloads/</guid>
+      <description>&lt;p&gt;Links coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://thymeflow.com/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thymeflow.com/legal/</guid>
+      <description>
+
+&lt;h2 id=&#34;company:7d11b95da6f13f352e32f5af2c24f251&#34;&gt;Company&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://sinovia.com/&#34;&gt;Sinovia, ENGIE Ineo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;143 Avenue de Verdun&lt;br /&gt;
+92130 Issy-les-Moulineaux&lt;br /&gt;
+France&lt;/p&gt;
+
+&lt;h2 id=&#34;hosting:7d11b95da6f13f352e32f5af2c24f251&#34;&gt;Hosting&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;privacy:7d11b95da6f13f352e32f5af2c24f251&#34;&gt;Privacy&lt;/h2&gt;
+
+&lt;iframe style=&#34;border: 0; height: 200px; width: 600px;&#34; src=&#34;https://analytics.masda70.com/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
