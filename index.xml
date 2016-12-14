@@ -6,26 +6,37 @@
     <description>Recent content on Thymeflow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thymeflow.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
       <link>https://thymeflow.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://thymeflow.com/about/</guid>
-      <description>&lt;p&gt;Thymeflow is an open-source system that integrates personal data from different sources, allowing global querying and analysis. It combines your location, calendar, email and contacts together to derive new knowledge. Knowledge is represented in an RDF model based on the &lt;a href=&#34;http://schema.org/&#34;&gt;schema.org&lt;/a&gt; ontology.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Thymeflow is an open-source system that integrates personal data from different sources, allowing global querying and analysis. It combines your location, calendar, email and contacts together to derive new knowledge. Knowledge is represented in an RDF model based on the &lt;a href=&#34;http://schema.org/&#34;&gt;schema.org&lt;/a&gt; ontology.&lt;/p&gt;
 
 &lt;p&gt;Thymeflow is a research project conducted by &lt;a href=&#34;http://sinovia.com&#34;&gt;Sinovia&lt;/a&gt;, a subsidiary of &lt;a href=&#34;http://www.engie.com/&#34;&gt;ENGIE&lt;/a&gt;, in collaboration with &lt;a href=&#34;https://www.inria.fr/&#34;&gt;INRIA&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Thymeflow is committed to keeping your data private by not sharing it with anyone, not even us.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Thymeflow, A Personal Knowledge Base with Spatio-Temporal Data.&lt;/strong&gt; &lt;a href=&#34;https://github.com/masda70&#34;&gt;David Montoya&lt;/a&gt;, &lt;a href=&#34;https://github.com/Tpt&#34;&gt;Thomas Pellissier Tanon&lt;/a&gt;, &lt;a href=&#34;http://abiteboul.com/&#34;&gt;Serge Abiteboul&lt;/a&gt; and &lt;a href=&#34;https://suchanek.name&#34;&gt;Fabian M. Suchanek&lt;/a&gt;. Demo at &lt;em&gt;International Conference on Information and Knowledge Management&lt;/em&gt; (CIKM), Indianapolis, USA, October 2016. Industry track, short paper. &lt;a href=&#34;https://thymeflow.com/publications/2016-10-thymeflow-cikm.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Thymeflow, An Open-Source Personal Knowledge Base System.&lt;/strong&gt; &lt;a href=&#34;https://github.com/masda70&#34;&gt;David Montoya&lt;/a&gt;, &lt;a href=&#34;https://github.com/Tpt&#34;&gt;Thomas Pellissier Tanon&lt;/a&gt;, &lt;a href=&#34;http://abiteboul.com/&#34;&gt;Serge Abiteboul&lt;/a&gt;, &lt;a href=&#34;http://pierre.senellart.com&#34;&gt;Pierre Senellart&lt;/a&gt; and &lt;a href=&#34;https://suchanek.name&#34;&gt;Fabian M. Suchanek&lt;/a&gt;. December 2016. Technical report. &lt;a href=&#34;https://thymeflow.com/publications/2016-12-thymeflow-tech-report.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Legal</title>
       <link>https://thymeflow.com/legal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://thymeflow.com/legal/</guid>
       <description>
